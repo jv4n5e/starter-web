@@ -3,9 +3,7 @@
 
 # TEAM
 
-    Juan Albuja
-    juansealbuja@gmail.com
-    juanalbuja.wordpress.com
+    <name> -- <role> -- <twitter>
 
 # THANKS
 
