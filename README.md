@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 At this point, I'm halfway through the course.
 
 ## Purpose
