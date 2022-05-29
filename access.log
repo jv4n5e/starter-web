@@ -1,0 +1,7 @@
+#Access to Authorized users only! Testing Git Stash
+/status 200
+/httpaccess 200
+/mktsp 300
+/dummy 3000
+
+Adding Git ignored files in Git stash.
