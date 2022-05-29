@@ -4,13 +4,14 @@
 # TEAM
 
     Juan Albuja
-    juansealbuja@gmail.com
-    juanalbuja.wordpress.com
-    LinkedIn: in/juan-albuja
+        juansealbuja@gmail.com
+        juanalbuja.wordpress.com
+        LinkedIn: in/juan-albuja
 
 # THANKS
 
-    Juan Albuja
+    Juan Albuja: thanks to my parents for everything they have done for me.
+        I will never be able to repay them.
 
 # TECHNOLOGY COLOPHON
 
